@@ -207,6 +207,7 @@ const keyboardGroups = {
   'czech': ['cz'],
   'french': ['fr'],
   'german': ['de'],
+  'macedonian': ['mk'],
   'norwegian': ['nb'],
   'slovak': ['sk'],
   'turkish': ['tr'],
